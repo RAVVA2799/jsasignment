@@ -8,3 +8,4 @@ c++;
 b++;
 ++a;
 console.log(a+""+b+""+c);
+
